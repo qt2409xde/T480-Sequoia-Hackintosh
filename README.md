@@ -15,35 +15,20 @@ This is my EFI which used to properly boot and run macOS Sequoia
 - An Internet connection
 - A 16GB or larger USB Drive
 
-# 💻 Prepare BIOS
-The BIOS settings must be the same as these before installing macOS
-In Security menu, set the following settings:
-
--  `Security > Security Chip`: must be **Disabled**
--  `Memory Protection > Execution Prevention`: must be **Enabled**
--  `Virtualization > Intel Virtualization Technology`: must be **Enabled**
--  `Virtualization > Intel VT-d Feature`: must be **Enabled**
--  `Anti-Theft > Computrace -> Current Setting`: must be **Disabled**
--  `Secure Boot > Secure Boot`: must be **Disabled**
--  `Intel SGX -> Intel SGX Control`: must be **Disabled**
--  `Device Guard`: must be **Disabled**
-
-In Startup menu, set the following options:
-
--  `UEFI/Legacy Boot`: **UEFI Only**
--  `CSM Support`: **No**
-
-In Thunderbolt menu, set the following options:
-
--  `Thunderbolt BIOS Assist Mode`: **UEFI Only**
--  `Wake by Thunderbolt(TM) 3`: **No**
--  `Security Level`: **No**
--  `Support in Pre Boot Environment > Thunderbolt(TM) device`: **No**
+# 💻 Preparing
 
 <details>  
 <summary><strong>⚙️ Prepare your USB</strong></summary>
 </br>
 
 **Unfortunately, there are still no Internet Recovery for macOS Sequoia yet, you still have to use image from Olarila, I will update about the Internet Recovery**
+Here is the link to download the Olarila Recovery Image:
+https://linkvertise.com/462274/olarila-sequoia-beta-51?o=sharing
 
+- Use balenaEtcher to flash the '.raw' image that you downloaded
 
+<details>  
+<summary><strong> Prepare your BIOS</strong></summary>
+</br>
+
+**You should reset all BIOS Settings to its defaults**
