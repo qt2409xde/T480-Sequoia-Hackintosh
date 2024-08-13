@@ -37,7 +37,7 @@ This is my EFI which used to properly boot and run macOS Sequoia
 - Bluetooth (at the moment)
 
 # 💻 Preparing
-**Unfortunately, there aren't any Internet Recovery for macOS Sequoia yet, I will upload them in the future!
+**Unfortunately, there aren't any Internet Recovery for macOS Sequoia yet, I will upload them in the future!**
 
 # Screenshots:
-[Screenshot 2024-08-13 at 9 56 27 PM](https://github.com/user-attachments/assets/35a4d4c4-7ff9-4008-b863-a87c03330613)
+Will be updated.
