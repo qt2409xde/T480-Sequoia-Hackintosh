@@ -15,7 +15,7 @@ This is my EFI which used to properly boot and run macOS Sequoia
 - An Internet connection
 - A 16GB or larger USB Drive
 
-### 💻 Prepare BIOS
+# 💻 Prepare BIOS
 The BIOS settings must be the same as these before installing macOS
 In Security menu, set the following settings:
 
