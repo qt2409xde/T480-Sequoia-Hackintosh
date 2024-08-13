@@ -27,6 +27,8 @@ https://linkvertise.com/462274/olarila-sequoia-beta-51?o=sharing
 
 - Use balenaEtcher to flash the '.raw' image that you downloaded
 
+
+
 <details>  
 <summary><strong> Prepare your BIOS</strong></summary>
 </br>
