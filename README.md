@@ -15,6 +15,26 @@ This is my EFI which used to properly boot and run macOS Sequoia
 - An Internet connection
 - A 16GB or larger USB Drive
 
+# ✅ What's working
+- Intel Wi-Fi (With HeliPort)
+- Intel UHD Graphics 620 (Full QE/CI)
+- Touchpad
+- Realtek ALC257
+- Brightness + Volume Control
+- Trackpoint
+- iServices (make sure to generate a proper SMBIOS)
+- Baterry level, information
+- HDMI (Technically)
+- USB-C + Thunderbolt ports
+- USB-A ports
+
+# ❌ What's not working
+- DRM on Safari
+- Fingerprint Reader
+- Thunderbolt 3
+- Webcam (at the moment)
+- Bluetooth (at the moment)
+
 # 💻 Preparing
 
 <details>  
@@ -26,11 +46,3 @@ Here is the link to download the Olarila Recovery Image:
 https://linkvertise.com/462274/olarila-sequoia-beta-51?o=sharing
 
 - Use balenaEtcher to flash the '.raw' image that you downloaded
-
-
-
-<details>  
-<summary><strong> Prepare your BIOS</strong></summary>
-</br>
-
-**You should reset all BIOS Settings to its defaults**
