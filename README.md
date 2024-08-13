@@ -37,16 +37,7 @@ This is my EFI which used to properly boot and run macOS Sequoia
 - Bluetooth (at the moment)
 
 # 💻 Preparing
-
-<details>  
-<summary><strong>⚙️ Prepare your USB</strong></summary>
-</br>
-
-**Unfortunately, there are still no Internet Recovery for macOS Sequoia yet, you still have to use image from Olarila, I will update about the Internet Recovery**
-Here is the link to download the Olarila Recovery Image:
-https://linkvertise.com/462274/olarila-sequoia-beta-51?o=sharing
-
-- Use balenaEtcher to flash the '.raw' image that you downloaded
+**Unfortunately, there aren't any Internet Recovery for macOS Sequoia yet, I will upload them in the future!
 
 # Screenshots:
 [Screenshot 2024-08-13 at 9 56 27 PM](https://github.com/user-attachments/assets/35a4d4c4-7ff9-4008-b863-a87c03330613)
