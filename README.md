@@ -39,3 +39,11 @@ In Thunderbolt menu, set the following options:
 -  `Wake by Thunderbolt(TM) 3`: **No**
 -  `Security Level`: **No**
 -  `Support in Pre Boot Environment > Thunderbolt(TM) device`: **No**
+
+<details>  
+<summary><strong>⚙️ Prepare your USB</strong></summary>
+</br>
+
+**Unfortunately, there are still no Internet Recovery for macOS Sequoia yet, you still have to use image from Olarila, I will update about the Internet Recovery**
+
+
