@@ -41,3 +41,8 @@ This is my EFI which used to properly boot and run macOS Sequoia
 
 # Screenshots:
 Will be updated.
+
+# 📜 License
+This repo is licensed under the MIT License.
+
+OpenCore is licensed under the BSD 3-Clause License.
