@@ -27,7 +27,7 @@ This is my EFI which used to properly boot and run macOS Sequoia
 - Baterry level, information
 - HDMI (Technically)
 - USB-C + Thunderbolt ports
-- USB-A ports
+
 
 # ❌ What's not working
 - DRM on Safari
@@ -38,8 +38,10 @@ This is my EFI which used to properly boot and run macOS Sequoia
 
 # 💻 Preparing
 **Unfortunately, there aren't any Internet Recovery for macOS Sequoia yet, I will upload them in the future!**
+Here is the link for Olarila image: https://linkvertise.com/462274/olarila-sequoia-beta-61?o=sharing
+Be aware of Hackintosh comminuties, they might not happy about you
 
-# Screenshots:
+# 🖼️ Screenshots:
 Will be updated.
 
 # 📜 License
