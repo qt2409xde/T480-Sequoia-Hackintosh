@@ -20,16 +20,13 @@ This is my EFI which used to properly boot and run macOS Sequoia
 
 
 # ✅ What's working
-- Intel Wi-Fi (With HeliPort)
-- Intel UHD Graphics 620 (Full QE/CI)
-- Touchpad
-- Realtek ALC257
-- Brightness + Volume Control
-- Trackpoint
-- iServices (make sure to generate a proper SMBIOS)
-- Baterry level, information
-- HDMI (Technically)
-- USB-C + Thunderbolt ports
+| Name             | Status                               |
+| -----------------| ------------------------------------ |
+| Trackpad/Trackpoint    | Yes                            |
+| iGPU                   | Intel UHD Graphics 620, yes!   |
+| Wi-Fi                  | Yes
+| Memory           | 16GB DDR4 2400Mhz                    |
+| WiFi & Bluetooth | Intel Wireless-AC 8265               |
 
 
 # ❌ What's not working
