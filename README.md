@@ -25,9 +25,11 @@ This is my EFI which used to properly boot and run macOS Sequoia
 | Trackpad/Trackpoint    | Yes                            |
 | iGPU                   | Intel UHD Graphics 620, yes!   |
 | Wi-Fi                  | Yes
-| Audio                  | Yes                            |
+| Audio/Microphone                  | Yes                            |
 | Controls | Yes, thanks to YogaSMC and some kexts               |
 | Hardware Information   | Yes |
+| iServices | Of course, make sure to prepare your SMBIOS |
+| USB-C + USB-A | Yes |
 
 
 # ❌ What's not working
