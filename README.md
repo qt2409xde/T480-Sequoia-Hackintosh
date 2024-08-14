@@ -1,4 +1,6 @@
  # T480-Sequoia-Hackintosh
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.3-blue)](https://github.com/acidanthera/OpenCorePkg)
+
 This is my EFI which used to properly boot and run macOS Sequoia
 
 # 🛠 Specs:
