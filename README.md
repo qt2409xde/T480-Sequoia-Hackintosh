@@ -52,10 +52,10 @@ Will be updated.
 # 🧰 Troubleshooting
 These are the known issues
 
-## 💬 iServices doesn't running!
+### 💬 iServices doesn't running!
 **Try to use itlwm version 2.2.0**
 
-## 📺 HDMI just have a **PINK** screen
+### 📺 HDMI just have a **PINK** screen
 **Me and my friends are working hard to fix this right now, stay tuned**
 
 # 📜 License
